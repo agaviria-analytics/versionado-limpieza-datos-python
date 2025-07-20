@@ -47,14 +47,3 @@ A continuación, se muestra la evidencia capturada de cada paso aplicado en el f
 | Confirmar que la rama fue subida     | ![](docs/Ramadesarrollosubida.JPG) |
 
 ---
-
-## 🎓 Valor del Proyecto
-
-- Aprende y demuestra tu dominio de Git de forma aplicada.
-- Usa comandos reales: `init`, `add`, `commit`, `branch`, `push`, `remote`, `merge`, `tag`.
-- Deja evidencia en GitHub de que sabes trabajar como lo harías en un equipo real.
-
-Este proyecto fue realizado y documentado como parte de mi formación como Analista de Datos.  
-Fue desarrollado y versionado completamente por mí, simulando un entorno profesional.
-
----
