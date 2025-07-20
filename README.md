@@ -14,23 +14,20 @@ Este proyecto aplica buenas prácticas de análisis de datos y control de versio
 
 ## 📁 Estructura del Proyecto
 
+```plaintext
 versionado-analisis-datos/
-│
-├── data/ # Datos de entrada y salida en Excel
-│ ├── ventas_dia2.xlsx
-│ └── archivo_ventas.xlsx
-│
-├── python/ # Script de limpieza de datos
-│ └── ventas.py
-│
-├── docs/ # Capturas del flujo Git real
-│ └── *.JPG
-│
-├── paquetes.txt # Requisitos del proyecto
-├── .gitignore # Exclusiones recomendadas
-├── README.md # Documentación general
+├── data/                         # Datos de entrada y salida en Excel
+│   ├── ventas_dia2.xlsx
+│   └── archivo_ventas.xlsx
+├── python/                       # Script de limpieza de datos
+│   └── ventas.py
+├── docs/                         # Capturas del flujo Git real
+│   └── *.JPG
+├── paquetes.txt                  # Requisitos del proyecto
+├── .gitignore                    # Exclusiones recomendadas
+└── README.md                     # Documentación general
+```
 
----
 
 ## 🧭 Flujo de Control de Versiones Real con Git y GitHub
 
