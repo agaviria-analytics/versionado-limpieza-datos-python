@@ -14,23 +14,20 @@ Este proyecto aplica buenas prácticas de análisis de datos y control de versio
 
 ## 📁 Estructura del Proyecto
 
+```plaintext
 versionado-analisis-datos/
-│
-├── data/ # Datos de entrada y salida en Excel
-│ ├── ventas_dia2.xlsx
-│ └── archivo_ventas.xlsx
-│
-├── python/ # Script de limpieza de datos
-│ └── ventas.py
-│
-├── docs/ # Capturas del flujo Git real
-│ └── *.JPG
-│
-├── paquetes.txt # Requisitos del proyecto
-├── .gitignore # Exclusiones recomendadas
-├── README.md # Documentación general
+├── data/                         # Datos de entrada y salida en Excel
+│   ├── ventas_dia2.xlsx
+│   └── archivo_ventas.xlsx
+├── python/                       # Script de limpieza de datos
+│   └── ventas.py
+├── docs/                         # Capturas del flujo Git real
+│   └── *.JPG
+├── paquetes.txt                  # Requisitos del proyecto
+├── .gitignore                    # Exclusiones recomendadas
+└── README.md                     # Documentación general
+```
 
----
 
 ## 🧭 Flujo de Control de Versiones Real con Git y GitHub
 
@@ -45,16 +42,5 @@ A continuación, se muestra la evidencia capturada de cada paso aplicado en el f
 | Conectar proyecto local a GitHub     | ![](docs/Conectar%20tu%20proyecto%20local%20con%20GitHub.JPG) |
 | Realizar `push` desde rama `desarrollo` | ![](docs/Conectar%20tu%20proyecto%20local%20con%20GitHub-1.JPG) |
 | Confirmar que la rama fue subida     | ![](docs/Ramadesarrollosubida.JPG) |
-
----
-
-## 🎓 Valor del Proyecto
-
-- Aprende y demuestra tu dominio de Git de forma aplicada.
-- Usa comandos reales: `init`, `add`, `commit`, `branch`, `push`, `remote`, `merge`, `tag`.
-- Deja evidencia en GitHub de que sabes trabajar como lo harías en un equipo real.
-
-Este proyecto fue realizado y documentado como parte de mi formación como Analista de Datos.  
-Fue desarrollado y versionado completamente por mí, simulando un entorno profesional.
 
 ---
